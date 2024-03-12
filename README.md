@@ -35,8 +35,8 @@ I've been studying front-end development since 2020, my main technologies are Re
 * **Agile development (Scrum and Kanban methodology)**;
 * **Clean Code, Clean Architecture, and Design Patterns**.
 
-> 🎓 I’m currently studying in high school at Colégio Empreender - 🇧🇷;
->🌱 I’m constantly learning and improving my skills in NextJS and TypeScript.  💻
+> * 🎓 I’m currently studying in high school at Colégio Empreender - 🇧🇷;
+> * 🌱 I’m constantly learning and improving my skills in NextJS and TypeScript.  💻
       
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Native Base](https://img.shields.io/badge/native_base-%2320232a.svg?style=for-the-badge&logo=nativebase&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
