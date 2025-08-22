@@ -23,7 +23,7 @@ I have some projects in Javascript and Typescript saved in github repositories :
 
 return raponikt.get().languages();
 ```
-![JAVA_LOGO](https://img.icons8.com/?size=50&id=GPfHz0SM85FX&format=png&color=000000) ![PYTHON_LOGO](https://img.icons8.com/?size=40&id=Rc0Xn5AtE8kX&format=png&color=000000) ![JAVASCRIPT_LOGO](https://img.icons8.com/?size=40&id=tGvHBPJaKqEd&format=png&color=000000) ![TYPESCRIPT_LOGO](https://img.icons8.com/?size=40&id=uJM6fQYqDaZK&format=png&color=000000)![C_LOGO](https://img.icons8.com/?size=50&id=40670&format=png&color=000000) ![CPP_LOGO](https://img.icons8.com/?size=50&id=40669&format=png&color=000000)
+![JAVA_LOGO](https://img.icons8.com/?size=40&id=GPfHz0SM85FX&format=png&color=000000) ![PYTHON_LOGO](https://img.icons8.com/?size=40&id=Rc0Xn5AtE8kX&format=png&color=000000) ![JAVASCRIPT_LOGO](https://img.icons8.com/?size=40&id=tGvHBPJaKqEd&format=png&color=000000) ![TYPESCRIPT_LOGO](https://img.icons8.com/?size=40&id=uJM6fQYqDaZK&format=png&color=000000)![C_LOGO](https://img.icons8.com/?size=40&id=40670&format=png&color=000000) ![CPP_LOGO](https://img.icons8.com/?size=40&id=40669&format=png&color=000000)
 ##### *Contact *
 ```
 You can contact me via Linkedin, Github or even by email!
